@@ -39,6 +39,13 @@
             <version>2.6</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.sgmw</groupId>
+            <artifactId>eladmin-oa</artifactId>
+            <version>2.6</version>
+        </dependency>
+
+
         <!-- Spring boot websocket -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
